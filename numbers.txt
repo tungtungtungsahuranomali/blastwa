@@ -1,7 +1,0 @@
-# WhatsApp Blast - Daftar Nomor
-# Format: 628xx (kode negara Indonesia, tanpa +/spasi)
-# Baris diawali # atau // akan diabaikan
-
-628117774884
-# 6281234567890
-# 6289876543210
